@@ -21,6 +21,7 @@ in text processing are used. The recommended method provides high quality user s
 boosts end-user satisfaction. It reduces manual efforts and human errors while ensuring high
 service levels and improved end-user satisfaction.
 
-##Requirements
-..*Any operating System(Windows, Linux, MAC)
+## Requirements
+
+..* Any operating System(Windows, Linux, MAC)
 *Python 3.3+
