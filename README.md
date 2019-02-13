@@ -23,5 +23,5 @@ service levels and improved end-user satisfaction.
 
 ## Requirements
 
-..* Any operating System(Windows, Linux, MAC)
-*Python 3.3+
+* Any operating System(Windows, Linux, MAC)
+* Python 3.3+
