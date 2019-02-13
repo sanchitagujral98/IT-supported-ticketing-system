@@ -1,0 +1,49 @@
+#app-details-left{
+  float: left;
+ width: 40%;
+}
+
+#app-details-right{
+  float: right;
+ width: 60%;
+ height: auto;
+}
+
+#madeby{
+  text-align: center;
+}
+
+.img_class{
+  border-radius: 50%;
+  width: 300px;
+  height:290px;
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
+section{
+  height: 100vh;
+}
+
+h2{
+  color: #001a66;
+}
+
+h4{
+  margin-left: 470px;
+  margin-right: 450px;
+}
+
+p{
+  text-align: justify;
+}
+
+hr{
+  display: block;
+margin-top: 3em;
+margin-bottom: 3em;
+margin-left: 400px;
+margin-right: 400px;
+border-style: inset;
+border-width: 1px;
+}
